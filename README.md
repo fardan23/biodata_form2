@@ -15,7 +15,7 @@ Repository ini berisi program formulir biodata sederhana menggunakan **Visual St
 ## 📌 Cara Menjalankan Program
 1. **Clone repository ini**
    ```bash
-   git clone https://github.com/fardan23/biodata_form.git
+   git clone https://github.com/fardan23/biodata_form2.git
    ```
 2. **Buka proyek dengan Visual Studio**
 3. **Jalankan program dengan menekan tombol Run** (F5 atau Ctrl + F5)
